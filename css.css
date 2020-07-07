@@ -1,0 +1,20 @@
+body,div{
+        margin:0;padding:0;
+        }
+.name{
+        position:fixed;
+        width:100vw;
+        margin-left:33.3%;
+        margin-top:0%;
+       }
+.name div{
+    margin:7px;
+    border-radius:5%;
+    width:10%;
+    height:20%;
+    background:Orange;
+    float:left;
+        }
+.name1  {
+        clear:left;
+        }
